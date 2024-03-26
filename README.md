@@ -46,4 +46,4 @@ I'm Zainab Mehboob, a software developer with over 1 years of experience in web 
 
 ## Contact 📫
 * Email: zmehboob57@gmail.com
-* Linkedin: [LinkedIn]www.linkedin.com/in/zainab-mehboob-241a4a2b4
+* Linkedin: www.linkedin.com/in/zainab-mehboob-241a4a2b4
