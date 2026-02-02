@@ -40,7 +40,7 @@ I'm Zainab Mehboob, a software developer with over 1 years of experience in web 
 </details>
 
 ## Education 🎓
-* Bachelor's degree in Computer Science
+* Bachelor's degree in Information Technology
 * Courses: Machine Learning and AI
 <br>Feel free to reach out if you're interested in collaborating on projects or if you have any question.
 
